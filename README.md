@@ -2,4 +2,14 @@
 
 crear 2 ramas
 
+<<<<<<< HEAD
 ahora estoy en el main
+=======
+rama1 creada
+
+creando rama2
+
+estoy en rama2
+
+he unido rama 1 a rama 2
+>>>>>>> rama1
